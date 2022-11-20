@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  common:
+  - apiVersion: v2
+    created: "2022-11-20T20:35:14.834875516+01:00"
+    description: Function library for k8s-at-home charts
+    digest: 06cbeb813adece7c3f1ce6350ec25f085cdda20dd97def8a02beaf6b7cb05840
+    home: https://github.com/jochenrichter/library-charts/tree/main/common
+    keywords:
+    - k8s-at-home
+    - common
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - name: jochen-richter
+    name: common
+    type: library
+    urls:
+    - https://jochenrichter.github.io/library-charts/common-4.5.2.tgz
+    version: 4.5.2
+generated: "2022-11-20T20:35:14.822046016+01:00"
